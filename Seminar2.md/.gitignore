@@ -1,3 +1,4 @@
-*.csproj
+*.md.csproj
 bin
 obj
+
